@@ -1,4 +1,4 @@
-### Hi, I''m Jake 👋
+### Hi, I'm Jake 👋
 
 Global Black Belt at Microsoft focused on **Windows 365** and **Azure Virtual Desktop** —
 helping customers in US Health & Life Sciences modernize their endpoint estates with Cloud PC.
